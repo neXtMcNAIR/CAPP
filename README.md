@@ -1,47 +1,17 @@
-![alt text](assets/CAPP_Logo.png "CAPP Logo")<font size="8"><span style="color:maroon">  CAPP-API</span></font>
+<img src=Tutorial_1_assets/CAPP_Logo.png>
 
 
 
-Repository for the development of the basic elements of an API for the CAPP Software
+CAPP is a process planning optimization program for composite manufacturing that allows the user to further analyze any anticipated defects after VCP. A VCP file will be required to fully utilize this program and to walk through the tutorials found in this user manual. 
 
----
+This User Manual is intended to be used in two separate ways. The first being a step-by-step tutorial through the CAPP process, assisting beginners in becoming familiar with the program. The second, a reference guide for any user who is having trouble understanding any aspect of the CAPP process and wishes to find more information. 
 
-# Reference Files
+To get started, navigate to the [Download and Installation](https://github.com/neXtMcNAIR/CAPP/wiki/Download-and-Installation) page.
 
-The links below provide detail on installation, style, and content issues. The files can be found in the CAPP-API/docs folder. Initial installations should read through the links sequentially for oroper set-up.
+### Requirements
+* Computer running Windows operating system
+* Contour file from CATIA or other CAD programs
+* VCP license and program
+* Microsoft Office Suite (specifically Excel)
 
-File name | Description
-----------  | ------------
-[INSTALLATION.md](./docs/INSTALLATION.md) |  Set-up information for Anaconda, python, and various packages
-[VERSION CONTROL.md](./docs/VERSION_CONTROL.md) |  Set-up for Git versioning and push/pull protocols
-[STYLE GUIDE.md](./docs/STYLE_GUIDE.md) |  Accepted conventions for project set-up and coding
-[README_TEMPLATE.md](./docs/README_TEMPLATE.md) | Template for README files for new projects
-
-# Project Information
-File name | Description 
-----------  | ------------
-[CAPP ORGANIZATION.md](./docs/CAPP_ORGANIZATION.md) | Data structure and class heirarchy
-[CAPP TIMELINE.md](./docs/CAPP_TIMELINE.md) | Evolving timeline of project goals and deadlines
-
-
-# Documentation Creation Utilities
-
-
-## Installing Sphinx and Sphinx Markdown Builder
-```bash
-source activate occ
-pip install sphinx sphinx-markdown-builder
-```
-
-## Usage
-```bash
-source activate occ
-# cd to CAPP-API main directory
-cd .../CAPP-API 
-# Build .rst files of python documentation
-sphinx-apidoc -o "docs/source" "API Testing"
-# Build .html files 
-make html
-# Build .md files (optional)
-make markdown
-```
+Have any questions? View the [FAQ](https://github.com/neXtMcNAIR/CAPP/wiki/FAQ) page.
