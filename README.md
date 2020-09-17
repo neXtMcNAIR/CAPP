@@ -1,4 +1,4 @@
-<img src=Tutorial_1_assets/CAPP_Logo.png>
+<img src=assets/CAPP_Logo.png>
 
 
 
