@@ -5,7 +5,7 @@
 
 CAPP is a process planning optimization program for composite manufacturing that allows the user to further analyze any anticipated defects.
 
-Find the most recent release of the CAPP software here: [Recent Releases](CAPP/releases)
+Find the most recent release of the CAPP software here: [Recent Releases](/CAPP/releases)
 
 To get started with the download: [Download and Installation](https://github.com/neXtMcNAIR/CAPP/wiki/Download-and-Installation)
 
