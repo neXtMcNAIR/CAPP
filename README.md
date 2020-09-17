@@ -1,4 +1,4 @@
-![alt text](./docs/CAPP_Logo_reduced48.png "CAPP Logo")<font size="8"><span style="color:maroon">  CAPP-API</span></font>
+![alt text](assets/CAPP_Logo.png "CAPP Logo")<font size="8"><span style="color:maroon">  CAPP-API</span></font>
 
 
 
