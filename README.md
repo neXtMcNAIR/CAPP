@@ -25,4 +25,4 @@ The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a
 
 - Microsoft Office Suite (specifically Excel)
 
-** Have any questions? View the [FAQ page](https://github.com/neXtMcNAIR/CAPP/wiki/FAQ).**
+**Have any questions? View the [FAQ page](https://github.com/neXtMcNAIR/CAPP/wiki/FAQ).**
