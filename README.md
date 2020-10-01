@@ -11,7 +11,7 @@ To find the most recent release of the CAPP software, click [here](https://githu
 
 For a guide to getting started with the download, click [here](https://github.com/neXtMcNAIR/CAPP/wiki/Download-and-Installation).
 
-The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a step-by-step tutorial through the CAPP process and assists beginners in becoming familiar with the program. It also acts as a reference guide for any user who is having trouble understanding aspects of the CAPP process and needs clarification.
+The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a step-by-step tutorial through the CAPP process and helps beginners become familiar with the program. It also acts as a reference guide for any user who is having trouble understanding aspects of the CAPP process and needs clarification.
 
 
 ### **Requirements**
