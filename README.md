@@ -3,7 +3,7 @@
 
 
 
-###**Download and Usage**
+### **Download and Usage**
 
 CAPP is a process planning optimization program for composite manufacturing that allows the user to analyze any anticipated defects in laminate course programming.
 
@@ -14,7 +14,7 @@ For a guide to getting started with the download, click [here](https://github.co
 The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a step-by-step tutorial through the CAPP process and assists beginners in becoming familiar with the program. It also acts as a reference guide for any user who is having trouble understanding aspects of the CAPP process and needs clarification.
 
 
-###**Requirements**
+### **Requirements**
 - Computer running Windows operating system
 
 - 7Zip software to extract the software
@@ -25,4 +25,4 @@ The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a
 
 - Microsoft Office Suite (specifically Excel)
 
-**Have any questions? View the [FAQ page](https://github.com/neXtMcNAIR/CAPP/wiki/FAQ).**
+** Have any questions? View the [FAQ page](https://github.com/neXtMcNAIR/CAPP/wiki/FAQ).**
