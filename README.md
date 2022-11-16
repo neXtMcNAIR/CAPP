@@ -7,7 +7,7 @@
 
 ### **Download and Usage**
 
-CAPP is a process planning optimization program for composite manufacturing that allows the user to analyze any anticipated defects in laminate course programming.
+CAPP (Computer Aided Process Planning) is a software that supports the process planning functions in composites manufacturing. CAPP is an optimization program that allows the planner/designer to analyze anticipated defects in laminate course programming. 
 
 For help with the downloading process, click [here](https://github.com/neXtMcNAIR/CAPP/wiki/Download-and-Installation).
 
