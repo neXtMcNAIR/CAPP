@@ -19,7 +19,7 @@ The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a
 
 - 7Zip software to extract the software
 
-- Contour file from CATIA or other CAD programs
+- Contour file from CAD program
 
 - VCP license and program
 
