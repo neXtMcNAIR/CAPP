@@ -1,13 +1,11 @@
-# **Quick Start** 
-
 <p align="center">
 <img src=assets/CAPP_LOGO.png>
+<h1 align="center">CAPP (Computer-Aided Process Planning)</h1>
+
+CAPP is a software that supports the process planning functions in composites manufacturing. CAPP is an optimization program that allows the planner/designer to analyze anticipated defects in laminate course programming. 
 
 
-
-### **Download and Usage**
-
-CAPP (Computer Aided Process Planning) is a software that supports the process planning functions in composites manufacturing. CAPP is an optimization program that allows the planner/designer to analyze anticipated defects in laminate course programming. 
+### **Usage**
 
 For help with the downloading process, click [here](https://github.com/neXtMcNAIR/CAPP/wiki/Download-and-Installation).
 
@@ -15,14 +13,10 @@ The [user manual](https://github.com/neXtMcNAIR/CAPP/wiki/Ply-Models) includes a
 
 
 ### **Requirements**
-- Computer running Windows operating system
-
-- 7Zip software to extract the software
-
-- Contour file from CAD program
-
-- VCP license and program
-
-- Microsoft Office Suite (specifically Excel)
+- Windows Operating System
+- 7Zip for Extraction
+- Contour File
+- VCP License and Program
+- Microsoft Excel
 
 **Have any questions? View the [FAQ page](https://github.com/neXtMcNAIR/CAPP/wiki/FAQ).**
