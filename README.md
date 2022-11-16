@@ -1,7 +1,7 @@
 # **Quick Start** 
 
 <p align="center">
-<img src=assets/CAPP LOGO.png>
+<img src=assets/CAPP_LOGO.png>
 
 
 
